@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.10",
-  "versionCode": 70,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.10/Buddy-v1.2.10-Futterplatz-und-Gassi-Korrekturen-Update.apk",
-  "fileName": "Buddy-v1.2.10-Futterplatz-und-Gassi-Korrekturen-Update.apk",
-  "fileSize": 3545906,
-  "sha256": "894950f26a324e47e0bc1301bce74096984a66bcccde7d889fa9a15ec83c80e3",
+  "versionName": "1.2.12",
+  "versionCode": 72,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.12/Buddy-v1.2.12-Futterplatz-Boden-und-Lesbarkeit-Update.apk",
+  "fileName": "Buddy-v1.2.12-Futterplatz-Boden-und-Lesbarkeit-Update.apk",
+  "fileSize": 3545903,
+  "sha256": "25583f12afee43321e5a6af403313f675f12e5576c117f70538028fee716b43c",
   "mandatory": false,
-  "title": "Buddy v1.2.10",
-  "message": "Futternäpfe stehen korrekt auf dem Boden, Napfverschmutzung ist direkt sichtbar, Matsch und Häufchen bleiben am Futterplatz frei sichtbar und der störende Text am Gassi-Häufchen wurde entfernt."
+  "title": "Buddy v1.2.12",
+  "message": "Der Hund steht am Futterplatz nun sichtbar auf dem Boden. Näpfe und Raumhinweis überdecken sich nicht mehr und der Hinweis zum selbstständigen Fressen und Trinken bleibt vollständig lesbar."
 }
