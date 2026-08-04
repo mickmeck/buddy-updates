@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 63,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.3/Buddy-v1.2.3-Automatische-Updatepruefung-Update.apk",
-  "fileName": "Buddy-v1.2.3-Automatische-Updatepruefung-Update.apk",
-  "fileSize": 3537712,
-  "sha256": "ff54083269436fcd82715d4d73d1a987a22d3587a9104570987504bcb4c9e68f",
+  "versionName": "1.2.4",
+  "versionCode": 64,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.4/Buddy-v1.2.4-Komfort-und-Direktnavigation-Update.apk",
+  "fileName": "Buddy-v1.2.4-Komfort-und-Direktnavigation-Update.apk",
+  "fileSize": 3541810,
+  "sha256": "c326b24aaf9d27a21fcda2eca1e53b5fe1d9fb5f56c93cec04a47cda569155f8",
   "mandatory": false,
-  "title": "Buddy v1.2.3",
-  "message": "Automatische Updateprüfung, direkter Download neuer Versionen und manueller Menüpunkt zum Suchen nach Updates."
+  "title": "Buddy v1.2.4",
+  "message": "Bessere Lesbarkeit im Pfotenladen, verständliche Leckerli-Hinweise in der Hundeschule, anklickbare Werte mit Direktnavigation und eine sichtbare Rückmeldung bei der Updateprüfung."
 }
