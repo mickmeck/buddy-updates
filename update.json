@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.4",
-  "versionCode": 64,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.4/Buddy-v1.2.4-Komfort-und-Direktnavigation-Update.apk",
-  "fileName": "Buddy-v1.2.4-Komfort-und-Direktnavigation-Update.apk",
-  "fileSize": 3541810,
-  "sha256": "c326b24aaf9d27a21fcda2eca1e53b5fe1d9fb5f56c93cec04a47cda569155f8",
+  "versionName": "1.2.5",
+  "versionCode": 65,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.5/Buddy-v1.2.5-Interner-Updateinstaller-Update.apk",
+  "fileName": "Buddy-v1.2.5-Interner-Updateinstaller-Update.apk",
+  "fileSize": 3545904,
+  "sha256": "5e67381f820befd80d43a1748c5e610cac3648c9ee850c21516df1b95c9f1505",
   "mandatory": false,
-  "title": "Buddy v1.2.4",
-  "message": "Bessere Lesbarkeit im Pfotenladen, verständliche Leckerli-Hinweise in der Hundeschule, anklickbare Werte mit Direktnavigation und eine sichtbare Rückmeldung bei der Updateprüfung."
+  "title": "Buddy v1.2.5",
+  "message": "Sicherer interner Updateinstaller: Neue Versionen werden geprüft und ohne bleibende APK-Datei im Download-Ordner an Android übergeben."
 }
