@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 62,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.2/Buddy-v1.2.2-Freie-Raumansichten-Update.apk",
-  "fileName": "Buddy-v1.2.2-Freie-Raumansichten-Update.apk",
-  "fileSize": 3533614,
-  "sha256": "50d97fedaccf6bf02321a3da6614a165f6bd617b81b8fcb262d76f6f12bc8c1b",
+  "versionName": "1.2.3",
+  "versionCode": 63,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.3/Buddy-v1.2.3-Automatische-Updatepruefung-Update.apk",
+  "fileName": "Buddy-v1.2.3-Automatische-Updatepruefung-Update.apk",
+  "fileSize": 3537712,
+  "sha256": "ff54083269436fcd82715d4d73d1a987a22d3587a9104570987504bcb4c9e68f",
   "mandatory": false,
-  "title": "Buddy v1.2.2",
-  "message": "Freie Raumansichten ohne störenden Zurückpfeil und verbesserte Eventfunktionen."
+  "title": "Buddy v1.2.3",
+  "message": "Automatische Updateprüfung, direkter Download neuer Versionen und manueller Menüpunkt zum Suchen nach Updates."
 }
