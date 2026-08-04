@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.15",
-  "versionCode": 75,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.15/Buddy-v1.2.15-Lernen-Koerpersprache-und-Raumlayout-Update.apk",
-  "fileName": "Buddy-v1.2.15-Lernen-Koerpersprache-und-Raumlayout-Update.apk",
-  "fileSize": 3599234,
-  "sha256": "a184d2fcbbf6976186db21e06abf12a4da2383e69b1ec197de21aa9ba3b294ea",
+  "versionName": "1.2.16",
+  "versionCode": 76,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.16/Buddy-v1.2.16-Tagesrhythmus-Rueckgabe-und-Koerpersprache-Update.apk",
+  "fileName": "Buddy-v1.2.16-Tagesrhythmus-Rueckgabe-und-Koerpersprache-Update.apk",
+  "fileSize": 3607428,
+  "sha256": "c7f28737559da9e89eb9132380448b82be75b97dbbbe49096d0da4019d011a79",
   "mandatory": false,
-  "title": "Buddy v1.2.15",
-  "message": "Pädagogisch verbessertes Stubenreinheitstraining, sichtbare Körpersprache, Hundewissen-Tagebuch sowie feste geschützte Textbereiche am Futter- und Schlafplatz."
+  "title": "Buddy v1.2.16",
+  "message": "Freiwilliger Tagesrhythmus, faire Rückgabe und Weiterverkauf, reparierte Schlafpose, deutlichere Körpersprache und vollständig aktualisierte Hilfe."
 }
