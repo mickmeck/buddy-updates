@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.12",
-  "versionCode": 72,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.12/Buddy-v1.2.12-Futterplatz-Boden-und-Lesbarkeit-Update.apk",
-  "fileName": "Buddy-v1.2.12-Futterplatz-Boden-und-Lesbarkeit-Update.apk",
-  "fileSize": 3545903,
-  "sha256": "25583f12afee43321e5a6af403313f675f12e5576c117f70538028fee716b43c",
+  "versionName": "1.2.13",
+  "versionCode": 73,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.13/Buddy-v1.2.13-Bedienung-Training-und-Animationen-Update.apk",
+  "fileName": "Buddy-v1.2.13-Bedienung-Training-und-Animationen-Update.apk",
+  "fileSize": 3591042,
+  "sha256": "68b345f9015d27bf7edee87651794de78c102062206dc27158adbf13dc9de515",
   "mandatory": false,
-  "title": "Buddy v1.2.12",
-  "message": "Der Hund steht am Futterplatz nun sichtbar auf dem Boden. Näpfe und Raumhinweis überdecken sich nicht mehr und der Hinweis zum selbstständigen Fressen und Trinken bleibt vollständig lesbar."
+  "title": "Buddy v1.2.13",
+  "message": "Verbessert Futterplatz, Pfeifton, Hundeschule und Kommandoanimationen. Beim Stockspiel läuft der Hund nun sichtbar zum Stock, nimmt ihn ins Maul, bringt ihn zurück und kaut darauf herum."
 }
