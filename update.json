@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.5",
-  "versionCode": 65,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.5/Buddy-v1.2.5-Interner-Updateinstaller-Update.apk",
-  "fileName": "Buddy-v1.2.5-Interner-Updateinstaller-Update.apk",
-  "fileSize": 3545904,
-  "sha256": "5e67381f820befd80d43a1748c5e610cac3648c9ee850c21516df1b95c9f1505",
+  "versionName": "1.2.6",
+  "versionCode": 66,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.6/Buddy-v1.2.6-Dynamische-Systemraender-Update.apk",
+  "fileName": "Buddy-v1.2.6-Dynamische-Systemraender-Update.apk",
+  "fileSize": 3545903,
+  "sha256": "6835ab416f4a00edf87c5d5cf21defa03c1d09c22a3cdb482278ab0f6585641f",
   "mandatory": false,
-  "title": "Buddy v1.2.5",
-  "message": "Sicherer interner Updateinstaller: Neue Versionen werden geprüft und ohne bleibende APK-Datei im Download-Ordner an Android übergeben."
+  "title": "Buddy v1.2.6",
+  "message": "Dynamische Android-Systemränder verhindern Überlappungen mit Statusleiste, Gestenbalken und Drei-Tasten-Navigation – ohne unnötigen Leerraum auf anderen Geräten."
 }
