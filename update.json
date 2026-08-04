@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.14",
-  "versionCode": 74,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.14/Buddy-v1.2.14-Gesundheit-Vet-und-Updateanzeige-Update.apk",
-  "fileName": "Buddy-v1.2.14-Gesundheit-Vet-und-Updateanzeige-Update.apk",
-  "fileSize": 3591044,
-  "sha256": "688651888eaa1b96a2dcc504d29ccf4246251873f7f8ab706bd84a6d5f669c4d",
+  "versionName": "1.2.15",
+  "versionCode": 75,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.15/Buddy-v1.2.15-Lernen-Koerpersprache-und-Raumlayout-Update.apk",
+  "fileName": "Buddy-v1.2.15-Lernen-Koerpersprache-und-Raumlayout-Update.apk",
+  "fileSize": 3599234,
+  "sha256": "a184d2fcbbf6976186db21e06abf12a4da2383e69b1ec197de21aa9ba3b294ea",
   "mandatory": false,
-  "title": "Buddy v1.2.14",
-  "message": "Verbesserter Tierarzt-Check, direkte Flohbehandlung in der Praxis, individuellere Gesundheitsberatung und eine klarere Updateanzeige im Menü."
+  "title": "Buddy v1.2.15",
+  "message": "Pädagogisch verbessertes Stubenreinheitstraining, sichtbare Körpersprache, Hundewissen-Tagebuch sowie feste geschützte Textbereiche am Futter- und Schlafplatz."
 }
