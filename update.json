@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.6",
-  "versionCode": 66,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.6/Buddy-v1.2.6-Dynamische-Systemraender-Update.apk",
-  "fileName": "Buddy-v1.2.6-Dynamische-Systemraender-Update.apk",
-  "fileSize": 3545903,
-  "sha256": "6835ab416f4a00edf87c5d5cf21defa03c1d09c22a3cdb482278ab0f6585641f",
+  "versionName": "1.2.7",
+  "versionCode": 67,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.7/Buddy-v1.2.7-Systemleisten-Hotfix-Update.apk",
+  "fileName": "Buddy-v1.2.7-Systemleisten-Hotfix-Update.apk",
+  "fileSize": 3545907,
+  "sha256": "ab06ee4fef44c8a9c0f4f629094e3dae06f274aa94d4f1d509edf1f47c9397ce",
   "mandatory": false,
-  "title": "Buddy v1.2.6",
-  "message": "Dynamische Android-Systemränder verhindern Überlappungen mit Statusleiste, Gestenbalken und Drei-Tasten-Navigation – ohne unnötigen Leerraum auf anderen Geräten."
+  "title": "Buddy v1.2.7 – wichtiger Hotfix",
+  "message": "Behebt den Startabsturz aus v1.2.6 und stellt eine stabile, geräteabhängige Systemleisten-Darstellung wieder her."
 }
