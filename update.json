@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.20",
-  "versionCode": 80,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.20/Buddy-v1.2.20-Reparatur-und-Bedienupdate.apk",
-  "fileName": "Buddy-v1.2.20-Reparatur-und-Bedienupdate.apk",
-  "fileSize": 3653632,
-  "sha256": "422888c9db4f3beb363af6c470a5297578d72c28b69af35e5b0e1d5143ce53be",
+  "versionName": "1.2.21",
+  "versionCode": 81,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.21/Buddy-v1.2.21-Automatische-Updatepruefung.apk",
+  "fileName": "Buddy-v1.2.21-Automatische-Updatepruefung.apk",
+  "fileSize": 3653538,
+  "sha256": "7566fd485aa657411f6935b5899f543e73d7fb13be14e802d014a2093614a6aa",
   "mandatory": false,
-  "title": "Buddy v1.2.20",
-  "message": "Repariert Raumtexte und Wetterfenster, macht Tagesziele erklärbar und verbessert Schlafplatz, Begegnungen sowie Tierarztbedienung."
+  "title": "Buddy v1.2.21",
+  "message": "Buddy prüft jetzt bei jedem Start und bei jeder Rückkehr in die App automatisch und unauffällig, ob eine neue Version verfügbar ist."
 }
