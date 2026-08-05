@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.17",
-  "versionCode": 77,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.17/Buddy-v1.2.17-Lebenssystem-Tagesziele-und-Technikbasis-Update.apk",
-  "fileName": "Buddy-v1.2.17-Lebenssystem-Tagesziele-und-Technikbasis-Update.apk",
-  "fileSize": 3616234,
-  "sha256": "4ca18a56e2b72fb54d9be0b5ac61bd294316fb8c816dd1e83ce8ed69d3fc8894",
+  "versionName": "1.2.18",
+  "versionCode": 78,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.18/Buddy-v1.2.18-Aktive-Wettbewerbe-Entdeckung-und-Begegnungen-Update.apk",
+  "fileName": "Buddy-v1.2.18-Aktive-Wettbewerbe-Entdeckung-und-Begegnungen-Update.apk",
+  "fileSize": 3628680,
+  "sha256": "0b6d0bd14f7c6ce1ef510c2b2e2c6dbdec1336e7376877f6f8cbc728fd9108b7",
   "mandatory": false,
-  "title": "Buddy v1.2.17",
-  "message": "Einheitliches Lebenssystem, 365 plus 5 bis 60 Lebenstage, empathische letzte Woche, Tagesziele ohne Pflegepflicht, Inventarfilter, Benachrichtigungskategorien und eine stabilere technische Grundlage."
+  "title": "Buddy v1.2.18",
+  "message": "Aktiv planbare Wettbewerbe, drei neue Mini-Spiele, sanfte Funktionsentdeckung in den ersten drei Tagen sowie deutlichere Folgen bei Erziehung und Hundebegegnungen."
 }
