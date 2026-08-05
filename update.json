@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.16",
-  "versionCode": 76,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.16/Buddy-v1.2.16-Tagesrhythmus-Rueckgabe-und-Koerpersprache-Update.apk",
-  "fileName": "Buddy-v1.2.16-Tagesrhythmus-Rueckgabe-und-Koerpersprache-Update.apk",
-  "fileSize": 3607428,
-  "sha256": "c7f28737559da9e89eb9132380448b82be75b97dbbbe49096d0da4019d011a79",
+  "versionName": "1.2.17",
+  "versionCode": 77,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.17/Buddy-v1.2.17-Lebenssystem-Tagesziele-und-Technikbasis-Update.apk",
+  "fileName": "Buddy-v1.2.17-Lebenssystem-Tagesziele-und-Technikbasis-Update.apk",
+  "fileSize": 3616234,
+  "sha256": "4ca18a56e2b72fb54d9be0b5ac61bd294316fb8c816dd1e83ce8ed69d3fc8894",
   "mandatory": false,
-  "title": "Buddy v1.2.16",
-  "message": "Freiwilliger Tagesrhythmus, faire Rückgabe und Weiterverkauf, reparierte Schlafpose, deutlichere Körpersprache und vollständig aktualisierte Hilfe."
+  "title": "Buddy v1.2.17",
+  "message": "Einheitliches Lebenssystem, 365 plus 5 bis 60 Lebenstage, empathische letzte Woche, Tagesziele ohne Pflegepflicht, Inventarfilter, Benachrichtigungskategorien und eine stabilere technische Grundlage."
 }
