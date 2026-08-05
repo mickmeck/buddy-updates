@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.18",
-  "versionCode": 78,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.18/Buddy-v1.2.18-Aktive-Wettbewerbe-Entdeckung-und-Begegnungen-Update.apk",
-  "fileName": "Buddy-v1.2.18-Aktive-Wettbewerbe-Entdeckung-und-Begegnungen-Update.apk",
-  "fileSize": 3628680,
-  "sha256": "0b6d0bd14f7c6ce1ef510c2b2e2c6dbdec1336e7376877f6f8cbc728fd9108b7",
+  "versionName": "1.2.19",
+  "versionCode": 79,
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.19/Buddy-v1.2.19-Geschichten-Spaziergaenge-Beziehungen-und-Wettereffekte-Update.apk",
+  "fileName": "Buddy-v1.2.19-Geschichten-Spaziergaenge-Beziehungen-und-Wettereffekte-Update.apk",
+  "fileSize": 3632776,
+  "sha256": "b04a3ad54f2ecf216553121eb37af96b9fb5cc852baa2dc8459d5486202a3683",
   "mandatory": false,
-  "title": "Buddy v1.2.18",
-  "message": "Aktiv planbare Wettbewerbe, drei neue Mini-Spiele, sanfte Funktionsentdeckung in den ersten drei Tagen sowie deutlichere Folgen bei Erziehung und Hundebegegnungen."
+  "title": "Buddy v1.2.19",
+  "message": "Neue Spaziergangs-Geschichten, kleine Wegentscheidungen, lesbare Freundschaftsverläufe und korrekt geschichtete Wettereffekte im Garten sowie nur noch durchs Fenster in Innenräumen."
 }
