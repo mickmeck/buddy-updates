@@ -1,11 +1,11 @@
 {
-  "versionCode": 105,
+  "versionCode": 106,
   "versionName": "1.4.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.0/Buddy-v1.4.0.apk",
-  "fileName": "Buddy-v1.4.0.apk",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.0/Buddy-v1.4.0-Build106.apk",
+  "fileName": "Buddy-v1.4.0-Build106.apk",
   "fileSize": 5287530,
-  "sha256": "f7ce03ec54b4949053afedc04359fb52306512695fa3448c929e3d24cdeef3dd",
+  "sha256": "b74b8c11b0ab856881b1e55ab1162074c63e764b063cb41b38ee09b435b73ae2",
   "mandatory": false,
-  "title": "Buddy v1.4.0",
-  "message": "Das große Buddy-Update erweitert Geschichten, Tages-Minispiele, Tutorial, Gesundheit, Tierarzt, Speicherstände, Audio, Bedienung und Sicherheit. Dein vorhandener Spielstand bleibt erhalten."
+  "title": "Buddy v1.4.0 – Korrekturbuild 106",
+  "message": "Korrektur für die ortsunabhängige Ausführung gelernter Kommandos und die kompakte Kommandoansicht. Dein Spielstand bleibt erhalten."
 }
