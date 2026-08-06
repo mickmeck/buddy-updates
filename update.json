@@ -1,11 +1,11 @@
 {
-  "versionName": "1.2.21",
-  "versionCode": 81,
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.2.21/Buddy-v1.2.21-Automatische-Updatepruefung.apk",
-  "fileName": "Buddy-v1.2.21-Automatische-Updatepruefung.apk",
-  "fileSize": 3653538,
-  "sha256": "7566fd485aa657411f6935b5899f543e73d7fb13be14e802d014a2093614a6aa",
+  "versionCode": 105,
+  "versionName": "1.4.0",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.0/Buddy-v1.4.0.apk",
+  "fileName": "Buddy-v1.4.0.apk",
+  "fileSize": 5287530,
+  "sha256": "f7ce03ec54b4949053afedc04359fb52306512695fa3448c929e3d24cdeef3dd",
   "mandatory": false,
-  "title": "Buddy v1.2.21",
-  "message": "Buddy prüft jetzt bei jedem Start und bei jeder Rückkehr in die App automatisch und unauffällig, ob eine neue Version verfügbar ist."
+  "title": "Buddy v1.4.0",
+  "message": "Das große Buddy-Update erweitert Geschichten, Tages-Minispiele, Tutorial, Gesundheit, Tierarzt, Speicherstände, Audio, Bedienung und Sicherheit. Dein vorhandener Spielstand bleibt erhalten."
 }
