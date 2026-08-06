@@ -1,11 +1,11 @@
 {
-  "versionCode": 106,
-  "versionName": "1.4.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.0/Buddy-v1.4.0-Build106.apk",
-  "fileName": "Buddy-v1.4.0-Build106.apk",
-  "fileSize": 5287530,
-  "sha256": "b74b8c11b0ab856881b1e55ab1162074c63e764b063cb41b38ee09b435b73ae2",
+  "versionCode": 107,
+  "versionName": "1.4.1",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.1/Buddy-v1.4.1.apk",
+  "fileName": "Buddy-v1.4.1.apk",
+  "fileSize": 5291627,
+  "sha256": "4f680fb633c9c3ceee1c2389d62577b24ca530ea6611d08289fb6c0f9a15098b",
   "mandatory": false,
-  "title": "Buddy v1.4.0 – Korrekturbuild 106",
-  "message": "Korrektur für die ortsunabhängige Ausführung gelernter Kommandos und die kompakte Kommandoansicht. Dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.4.1",
+  "message": "Die Erholungsanzeige am Schlafplatz verdeckt Traumsequenzen nicht mehr. Details bleiben auf Wunsch antippbar; dein Spielstand bleibt erhalten."
 }
