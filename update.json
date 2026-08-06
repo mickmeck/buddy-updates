@@ -1,11 +1,11 @@
 {
-  "versionCode": 107,
-  "versionName": "1.4.1",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.1/Buddy-v1.4.1.apk",
-  "fileName": "Buddy-v1.4.1.apk",
-  "fileSize": 5291627,
-  "sha256": "4f680fb633c9c3ceee1c2389d62577b24ca530ea6611d08289fb6c0f9a15098b",
+  "versionCode": 108,
+  "versionName": "1.4.2",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.2/Buddy-v1.4.2.apk",
+  "fileName": "Buddy-v1.4.2.apk",
+  "fileSize": 5283434,
+  "sha256": "b7e29206250284056e9cee6455225e200b93e68b0fc7025603cf46bdd6f0e882",
   "mandatory": false,
-  "title": "Buddy v1.4.1",
-  "message": "Die Erholungsanzeige am Schlafplatz verdeckt Traumsequenzen nicht mehr. Details bleiben auf Wunsch antippbar; dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.4.2",
+  "message": "Die Tagesaufgabe für zwei unterschiedliche Gassirunden berücksichtigt jetzt auch Routen, die am selben Tag bereits vor dem Erscheinen der Aufgabe abgeschlossen wurden. Dein Spielstand bleibt erhalten."
 }
