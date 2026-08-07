@@ -1,11 +1,11 @@
 {
-  "versionCode": 108,
-  "versionName": "1.4.2",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.4.2/Buddy-v1.4.2.apk",
-  "fileName": "Buddy-v1.4.2.apk",
-  "fileSize": 5283434,
-  "sha256": "b7e29206250284056e9cee6455225e200b93e68b0fc7025603cf46bdd6f0e882",
+  "versionCode": 118,
+  "versionName": "1.5.0",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.5.0/Buddy-v1.5.0.apk",
+  "fileName": "Buddy-v1.5.0.apk",
+  "fileSize": 5312107,
+  "sha256": "fba743fbea895d3b16b4ac69d2099e21a3bb97a95839632a823c7a43c8e4c9f2",
   "mandatory": false,
-  "title": "Buddy v1.4.2",
-  "message": "Die Tagesaufgabe für zwei unterschiedliche Gassirunden berücksichtigt jetzt auch Routen, die am selben Tag bereits vor dem Erscheinen der Aufgabe abgeschlossen wurden. Dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.5.0",
+  "message": "Das Tutorial führt jetzt stabil und geschützt durch Pflege, Tierarzt, Zecken, Training und Minispiele. Die Hundeschule wurde aufgeräumt und Pfotenpaare gegen unlösbare Runden abgesichert. Dein Spielstand bleibt erhalten."
 }
