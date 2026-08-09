@@ -1,0 +1,26 @@
+name: Publish Buddy v1.6.0 release shell
+
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-v1.6.0.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create release if missing
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view v1.6.0 --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Release v1.6.0 already exists."
+          else
+            gh release create v1.6.0 \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "Buddy v1.6.0" \
+              --notes $'Buddy v1.6.0 bringt den neuen interaktiven ersten Tag „Ankommen & Vertrauen“, den Urlaubs- und Pausemodus, sichere Speicherstände und Backups, ein deutlich robusteres Update-System sowie viele Qualitäts-, Hilfe- und Bedienverbesserungen.\n\nWeitere Verbesserungen betreffen Touchziele und Barrierefreiheit, Restore-/Backup-Sicherheit, Update- und Signaturprüfungen sowie fachlich präzisierte Flohinhalte.\n\nDer Spielstand bleibt beim Update erhalten.'
+          fi
