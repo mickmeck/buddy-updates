@@ -1,11 +1,11 @@
 {
-  "versionCode": 118,
-  "versionName": "1.5.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.5.0/Buddy-v1.5.0.apk",
-  "fileName": "Buddy-v1.5.0.apk",
-  "fileSize": 5312107,
-  "sha256": "fba743fbea895d3b16b4ac69d2099e21a3bb97a95839632a823c7a43c8e4c9f2",
+  "versionCode": 134,
+  "versionName": "1.6.0",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.6.0/Buddy-v1.6.0.apk",
+  "fileName": "Buddy-v1.6.0.apk",
+  "fileSize": 6187630,
+  "sha256": "637ae33f50fd2c04e8a8c65a96809c48a9d2b9f622032dc2934da8e04c66648c",
   "mandatory": false,
-  "title": "Buddy v1.5.0",
-  "message": "Das Tutorial führt jetzt stabil und geschützt durch Pflege, Tierarzt, Zecken, Training und Minispiele. Die Hundeschule wurde aufgeräumt und Pfotenpaare gegen unlösbare Runden abgesichert. Dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.6.0",
+  "message": "Buddy v1.6.0 bringt den interaktiven ersten Tag, den Urlaubs- und Pausemodus, sichere Speicherstände und Backups, ein robusteres Update-System sowie viele Qualitäts-, Hilfe- und Bedienverbesserungen. Dein Spielstand bleibt erhalten."
 }
