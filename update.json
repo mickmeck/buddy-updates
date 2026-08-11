@@ -1,11 +1,11 @@
 {
-  "versionCode": 134,
-  "versionName": "1.6.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.6.0/Buddy-v1.6.0.apk",
-  "fileName": "Buddy-v1.6.0.apk",
-  "fileSize": 6187630,
-  "sha256": "637ae33f50fd2c04e8a8c65a96809c48a9d2b9f622032dc2934da8e04c66648c",
+  "versionCode": 144,
+  "versionName": "1.6.1",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.6.1/Buddy-v1.6.1.apk",
+  "fileName": "Buddy-v1.6.1.apk",
+  "fileSize": 8849034,
+  "sha256": "dc5337f7e0bd58daea6a7b13f6b61e90f552f99a99edf2433350a1ce57fbd86c",
   "mandatory": false,
-  "title": "Buddy v1.6.0",
-  "message": "Buddy v1.6.0 bringt den interaktiven ersten Tag, den Urlaubs- und Pausemodus, sichere Speicherstände und Backups, ein robusteres Update-System sowie viele Qualitäts-, Hilfe- und Bedienverbesserungen. Dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.6.1",
+  "message": "Buddy v1.6.1 erweitert das Spielzeug-System um sichtbares Holen, Fallenlassen, eigenständiges Spielen, Verschleiß, Reparatur und Entsorgen. Dazu kommen verbesserte Kommando- und Gesundheitsdarstellungen, Tierschutz-Abläufe, neue Sounds, echte Uhrzeit für Tagesrhythmus und Tag/Nacht sowie zahlreiche Stabilitäts-, Sicherheits-, Bedien- und Accessibility-Korrekturen. Dein Spielstand bleibt erhalten."
 }
