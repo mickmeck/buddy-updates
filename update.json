@@ -1,11 +1,11 @@
 {
-  "versionCode": 144,
-  "versionName": "1.6.1",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.6.1/Buddy-v1.6.1.apk",
-  "fileName": "Buddy-v1.6.1.apk",
-  "fileSize": 8849034,
-  "sha256": "dc5337f7e0bd58daea6a7b13f6b61e90f552f99a99edf2433350a1ce57fbd86c",
+  "versionCode": 152,
+  "versionName": "1.7.0",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.7.0/Buddy-v1.7.0.apk",
+  "fileName": "Buddy-v1.7.0.apk",
+  "fileSize": 8879642,
+  "sha256": "6ced335582fea2437f75421904a215bf4b3156fa2d3900ab3bd60a58c77fc56f",
   "mandatory": false,
-  "title": "Buddy v1.6.1",
-  "message": "Buddy v1.6.1 erweitert das Spielzeug-System um sichtbares Holen, Fallenlassen, eigenständiges Spielen, Verschleiß, Reparatur und Entsorgen. Dazu kommen verbesserte Kommando- und Gesundheitsdarstellungen, Tierschutz-Abläufe, neue Sounds, echte Uhrzeit für Tagesrhythmus und Tag/Nacht sowie zahlreiche Stabilitäts-, Sicherheits-, Bedien- und Accessibility-Korrekturen. Dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.7.0",
+  "message": "Buddy v1.7.0 modernisiert die technische Grundlage des Spiels: modularere Architektur, klarere Zustands- und Aktionsverträge, stabilere UI-/Event- und CSS-Strukturen sowie zusätzliche systemweite Qualitätsprüfungen. Einzelne Gesundheits- und Update-Texte wurden vereinheitlicht und der Release-Build reproduzierbar gemacht. Das sichtbare Gameplay bleibt bewusst weitgehend unverändert; dein Spielstand bleibt erhalten."
 }
