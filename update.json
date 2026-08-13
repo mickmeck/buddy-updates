@@ -1,11 +1,11 @@
 {
-  "versionCode": 152,
-  "versionName": "1.7.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.7.0/Buddy-v1.7.0.apk",
-  "fileName": "Buddy-v1.7.0.apk",
-  "fileSize": 8879642,
-  "sha256": "6ced335582fea2437f75421904a215bf4b3156fa2d3900ab3bd60a58c77fc56f",
+  "versionCode": 153,
+  "versionName": "1.7.1",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.7.1/Buddy-v1.7.1.apk",
+  "fileName": "Buddy-v1.7.1.apk",
+  "fileSize": 8879619,
+  "sha256": "eb3c788613a8aad556bdc2cc0c22fd46b5c7d325284d508a1293c42a44fc39ae",
   "mandatory": false,
-  "title": "Buddy v1.7.0",
-  "message": "Buddy v1.7.0 modernisiert die technische Grundlage des Spiels: modularere Architektur, klarere Zustands- und Aktionsverträge, stabilere UI-/Event- und CSS-Strukturen sowie zusätzliche systemweite Qualitätsprüfungen. Einzelne Gesundheits- und Update-Texte wurden vereinheitlicht und der Release-Build reproduzierbar gemacht. Das sichtbare Gameplay bleibt bewusst weitgehend unverändert; dein Spielstand bleibt erhalten."
+  "title": "Buddy v1.7.1",
+  "message": "Buddy v1.7.1 ist ein kleiner Shop-Schutz-Hotfix. Elf Artikel, deren besondere Funktionen noch überarbeitet werden, werden vorübergehend nicht mehr neu zum Kauf angeboten. Bereits gekaufte Artikel und dein Spielstand bleiben erhalten; der restliche Shop funktioniert unverändert weiter."
 }
