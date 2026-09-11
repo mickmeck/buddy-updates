@@ -1,11 +1,11 @@
 {
-  "versionCode": 189,
-  "versionName": "1.8.1",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.1/Buddy-v1.8.1.apk",
-  "fileName": "Buddy-v1.8.1.apk",
-  "fileSize": 69090063,
-  "sha256": "ed65099eba42da88a35f9d130199dd376f41990961dd9dbbf418bf3ebcb8c236",
+  "versionCode": 190,
+  "versionName": "1.8.2",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.2/Buddy-v1.8.2.apk",
+  "fileName": "Buddy-v1.8.2.apk",
+  "fileSize": 69094311,
+  "sha256": "3b4fed193407945829b124973790c3be1deaa4353eaa7e0bc9d8a10b9f935764",
   "mandatory": false,
-  "title": "Buddy v1.8.1",
-  "message": "Buddy v1.8.1 verbessert die Gassirouten mit neuen Wegkurven und Tiefenperspektive und enthält zahlreiche Verbesserungen an Shop, Kleidung, Näpfen, Geburtstag, Herbst und Halloween. Auch Spielsessions, Platzierungen und mehrere Animationen wurden überarbeitet. Bestehende Spielstände und State-Schema 61 bleiben erhalten."
+  "title": "Buddy v1.8.2",
+  "message": "Buddy v1.8.2 enthält die neuesten Korrekturen und Verbesserungen am aktuellen Buddy-Stand. Bestehende Spielstände bleiben erhalten."
 }
