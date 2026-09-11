@@ -1,11 +1,11 @@
 {
-  "versionCode": 173,
-  "versionName": "1.8.0",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.0/Buddy-v1.8.0.apk",
-  "fileName": "Buddy-v1.8.0.apk",
-  "fileSize": 46167244,
-  "sha256": "9266fea7e8c8b0e8800866e2f7fe4e2fcab2d1500437979175c24bc52d82bf9a",
+  "versionCode": 189,
+  "versionName": "1.8.1",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.1/Buddy-v1.8.1.apk",
+  "fileName": "Buddy-v1.8.1.apk",
+  "fileSize": 69090063,
+  "sha256": "ed65099eba42da88a35f9d130199dd376f41990961dd9dbbf418bf3ebcb8c236",
   "mandatory": false,
-  "title": "Buddy v1.8.0",
-  "message": "Buddy v1.8.0 erweitert die Jahreszeiten- und Wetterdarstellung mit vollständigen Herbstkulissen für Garten und Gassirouten, neuen Halloween-Szenen und echten Außenansichten in Fenstern. Hundehütte und Buddelkiste wurden hochwertig überarbeitet, das Abenteuerhalstuch korrigiert. Spielstand und State-Schema 61 bleiben erhalten. Die große Minispiel-Neuentwicklung folgt in v1.8.1."
+  "title": "Buddy v1.8.1",
+  "message": "Buddy v1.8.1 verbessert die Gassirouten mit neuen Wegkurven und Tiefenperspektive und enthält zahlreiche Verbesserungen an Shop, Kleidung, Näpfen, Geburtstag, Herbst und Halloween. Auch Spielsessions, Platzierungen und mehrere Animationen wurden überarbeitet. Bestehende Spielstände und State-Schema 61 bleiben erhalten."
 }
