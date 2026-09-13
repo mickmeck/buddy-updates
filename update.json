@@ -1,11 +1,11 @@
 {
-  "versionCode": 191,
-  "versionName": "1.8.2",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.2/Buddy-v1.8.2.apk",
-  "fileName": "Buddy-v1.8.2.apk",
-  "fileSize": 69094312,
-  "sha256": "a94b73358ebef9d2579426761839604893060c9a60e7f5167cd4521445bcf1e1",
+  "versionCode": 193,
+  "versionName": "1.8.3",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.3/Buddy-v1.8.3.apk",
+  "fileName": "Buddy-v1.8.3.apk",
+  "fileSize": 69512273,
+  "sha256": "e1592fc0e47f2cdddff557b03d54564dffde1bf09c5110f2b9477e78b27d1c53",
   "mandatory": false,
-  "title": "Buddy v1.8.2",
-  "message": "Buddy v1.8.2 enthält die neuesten Korrekturen und Verbesserungen am aktuellen Buddy-Stand. Bestehende Spielstände bleiben erhalten."
+  "title": "Buddy v1.8.3",
+  "message": "Verbesserte Raumspiele und Größenverhältnisse, Kuscheltiere in Kopfnähe im Bett, direktes Stockwerfen, Quietschspiel und Schnüffelteppich. Neuer Grabstein, Zugang zu Spielständen nach dem Tod und Zeit zurückdrehen nach Vernachlässigung. Bestehende Spielstände bleiben erhalten."
 }
