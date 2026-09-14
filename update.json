@@ -1,11 +1,11 @@
 {
-  "versionCode": 193,
-  "versionName": "1.8.3",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.3/Buddy-v1.8.3.apk",
-  "fileName": "Buddy-v1.8.3.apk",
-  "fileSize": 69512273,
-  "sha256": "e1592fc0e47f2cdddff557b03d54564dffde1bf09c5110f2b9477e78b27d1c53",
+  "versionCode": 194,
+  "versionName": "1.8.4",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.4/Buddy-v1.8.4.apk",
+  "fileName": "Buddy-v1.8.4.apk",
+  "fileSize": 69516529,
+  "sha256": "2145f2861f4b70017364467618e0f9b04bdc5904045d372c47d04fb1c8440aab",
   "mandatory": false,
-  "title": "Buddy v1.8.3",
-  "message": "Verbesserte Raumspiele und Größenverhältnisse, Kuscheltiere in Kopfnähe im Bett, direktes Stockwerfen, Quietschspiel und Schnüffelteppich. Neuer Grabstein, Zugang zu Spielständen nach dem Tod und Zeit zurückdrehen nach Vernachlässigung. Bestehende Spielstände bleiben erhalten."
+  "title": "Buddy v1.8.4",
+  "message": "Spielzeugkiste und gepolsterte Truhe mit korrigierten Proportionen und tatsächlich sichtbarem Inhalt. Spielzeuge gezielt herausnehmen und aufräumen; die Darstellung bleibt bei Raumwechsel und Neuladen korrekt. Bestehende Spielstände bleiben erhalten."
 }
