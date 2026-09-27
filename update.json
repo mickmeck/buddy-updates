@@ -1,11 +1,11 @@
 {
-  "versionCode": 194,
-  "versionName": "1.8.4",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.4/Buddy-v1.8.4.apk",
-  "fileName": "Buddy-v1.8.4.apk",
-  "fileSize": 69516529,
-  "sha256": "2145f2861f4b70017364467618e0f9b04bdc5904045d372c47d04fb1c8440aab",
+  "versionCode": 199,
+  "versionName": "1.8.5",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5/Buddy-v1.8.5.apk",
+  "fileName": "Buddy-v1.8.5.apk",
+  "fileSize": 283108379,
+  "sha256": "6ed81fabe6af680f025b43ec3e30ee8b519b609541f81e597dfc47e13a67fdb2",
   "mandatory": false,
-  "title": "Buddy v1.8.4",
-  "message": "Spielzeugkiste und gepolsterte Truhe mit korrigierten Proportionen und tatsächlich sichtbarem Inhalt. Spielzeuge gezielt herausnehmen und aufräumen; die Darstellung bleibt bei Raumwechsel und Neuladen korrekt. Bestehende Spielstände bleiben erhalten."
+  "title": "Buddy v1.8.5",
+  "message": "Neue Jack-Russell-Figuren, 15 Tagesspiele einschließlich Digger, vertonte Halloween- und Adventsabenteuer sowie verbesserte Spiel-, Pflege- und Schlafabläufe. Bessere Antippbarkeit und gemeinsame Napfreinigung ohne Futterverlust. Bestehende Spielstände und Käufe bleiben erhalten. Download ca. 283 MB."
 }
