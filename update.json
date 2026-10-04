@@ -1,11 +1,11 @@
 {
-  "versionCode": 199,
+  "versionCode": 200,
   "versionName": "1.8.5",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5/Buddy-v1.8.5.apk",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5-build200/Buddy-v1.8.5.apk",
   "fileName": "Buddy-v1.8.5.apk",
-  "fileSize": 283108379,
-  "sha256": "6ed81fabe6af680f025b43ec3e30ee8b519b609541f81e597dfc47e13a67fdb2",
+  "fileSize": 283112475,
+  "sha256": "b08c02507cb01135aaa53e93c4b4e787af8a6a48e299660d03ed414a25f05467",
   "mandatory": false,
-  "title": "Buddy v1.8.5",
-  "message": "Neue Jack-Russell-Figuren, 15 Tagesspiele einschließlich Digger, vertonte Halloween- und Adventsabenteuer sowie verbesserte Spiel-, Pflege- und Schlafabläufe. Bessere Antippbarkeit und gemeinsame Napfreinigung ohne Futterverlust. Bestehende Spielstände und Käufe bleiben erhalten. Download ca. 283 MB."
+  "title": "Buddy 1.8.5 – Korrekturupdate",
+  "message": "Der Schnüffelteppich lässt sich wieder korrekt absuchen. Buddys Welpenrettung ist vollständig bedienbar: größere, feste Ortsmarkierungen und alle Werkzeuge sichtbar erreichbar. Spielstände, Hunde und Käufe bleiben erhalten. Download ca. 283 MB."
 }
