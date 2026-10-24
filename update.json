@@ -1,11 +1,11 @@
 {
-  "versionCode": 200,
+  "versionCode": 201,
   "versionName": "1.8.5",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5-build200/Buddy-v1.8.5.apk",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5-build201/Buddy-v1.8.5.apk",
   "fileName": "Buddy-v1.8.5.apk",
-  "fileSize": 283112475,
-  "sha256": "b08c02507cb01135aaa53e93c4b4e787af8a6a48e299660d03ed414a25f05467",
+  "fileSize": 283112625,
+  "sha256": "82917c5ab3642f2d6cb942a589f4e9a225372534702f711c9c02e8c0edb478af",
   "mandatory": false,
   "title": "Buddy 1.8.5 – Korrekturupdate",
-  "message": "Der Schnüffelteppich lässt sich wieder korrekt absuchen. Buddys Welpenrettung ist vollständig bedienbar: größere, feste Ortsmarkierungen und alle Werkzeuge sichtbar erreichbar. Spielstände, Hunde und Käufe bleiben erhalten. Download ca. 283 MB."
+  "message": "Verbesserte Raum- und Gartenplatzierung, passende Schlafpositionen in allen Betten, stabilerer Halsbandsitz und korrekt begrenzte Shopbilder. Das Trainingsmenü bleibt geöffnet; Futtersäcke lassen sich vollständig leeren. Spielstände, Hunde und Käufe bleiben erhalten. Download ca. 283 MB."
 }
