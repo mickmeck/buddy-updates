@@ -1,11 +1,11 @@
 {
-  "versionCode": 201,
+  "versionCode": 202,
   "versionName": "1.8.5",
-  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5-build201/Buddy-v1.8.5.apk",
+  "downloadUrl": "https://github.com/mickmeck/buddy-updates/releases/download/v1.8.5-build202/Buddy-v1.8.5.apk",
   "fileName": "Buddy-v1.8.5.apk",
-  "fileSize": 283112625,
-  "sha256": "82917c5ab3642f2d6cb942a589f4e9a225372534702f711c9c02e8c0edb478af",
+  "fileSize": 283116721,
+  "sha256": "874655ae84cfe2314add822ac8d0c9525ae31e8037fba8f0a360de2d3820a6f3",
   "mandatory": false,
-  "title": "Buddy 1.8.5 – Korrekturupdate",
-  "message": "Verbesserte Raum- und Gartenplatzierung, passende Schlafpositionen in allen Betten, stabilerer Halsbandsitz und korrekt begrenzte Shopbilder. Das Trainingsmenü bleibt geöffnet; Futtersäcke lassen sich vollständig leeren. Spielstände, Hunde und Käufe bleiben erhalten. Download ca. 283 MB."
+  "title": "Buddy 1.8.5 – Halloween- und Kalenderkorrektur",
+  "message": "Halloween bleibt dieses Jahr bis zum 1. November um 00:00 Uhr Ortszeit verfügbar; künftig nur am 31. Oktober. Echter Kalender für Feiertage und Tagesspiele, korrekter Tageswechsel und gespeicherter Halloween-Fortschritt ohne doppelte Belohnungen. Hunde, Spielstände und Käufe bleiben erhalten. Download ca. 283 MB."
 }
